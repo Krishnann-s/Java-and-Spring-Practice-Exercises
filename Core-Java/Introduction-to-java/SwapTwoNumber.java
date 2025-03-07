@@ -55,5 +55,7 @@ public class SwapTwoNumber {
 
         System.out.println("After swapping");
         System.out.println("first = " + first + ", second = " + second);
+
+        sc.close();
     }
 }

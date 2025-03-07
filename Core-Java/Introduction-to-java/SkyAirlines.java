@@ -47,5 +47,7 @@ public class SkyAirlines {
         String destination = sc.nextLine();
 
         System.out.println("Dear " + name + ", welcome onboard with service from " + source + " to " + destination + ". Thankyou for choosing Sky Airlines. Enjoy your flight.");
+        
+        sc.close();
     }
 }
