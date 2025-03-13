@@ -4,7 +4,7 @@
 
 ## Pattern 1:
 
-- [ ] status
+- [x] status
 
 ```
 1
@@ -18,7 +18,7 @@
 
 ## Pattern 2:
 
-- [ ] status
+- [x] status
 
 ```
 1 2 3 4 5 6 7
@@ -32,7 +32,7 @@
 
 ## Pattern 3:
 
-- [ ] status
+- [x] status
 
 ```
 1
@@ -46,7 +46,7 @@
 
 ## Pattern 4:
 
-- [ ] status
+- [x] status
 
 ```
 7 7 7 7 7 7 7
@@ -60,7 +60,7 @@
 
 ## Pattern 5:
 
-- [ ] status
+- [x] status
 
 ```
 7
@@ -74,7 +74,7 @@
 
 ## Pattern 6:
 
-- [ ] status
+- [x] status
 
 ```
 7 6 5 4 3 2 1
@@ -88,7 +88,7 @@
 
 ## Pattern 7:
 
-- [ ] status
+- [x] status
 
 ```
 1
@@ -102,7 +102,7 @@
 
 ## Pattern 8:
 
-- [ ] status
+- [x] status
 
 ```
 7 6 5 4 3 2 1
@@ -116,7 +116,7 @@
 
 ## Pattern 9:
 
-- [ ] status
+- [x] status
 
 ```
 1
@@ -136,7 +136,7 @@
 
 ## Pattern 10:
 
-- [ ] status
+- [x] status
 
 ```
 1 2 3 4 5 6 7
@@ -156,7 +156,7 @@
 
 ## Pattern 11:
 
-- [ ] status
+- [x] status
 
 ```
 1
