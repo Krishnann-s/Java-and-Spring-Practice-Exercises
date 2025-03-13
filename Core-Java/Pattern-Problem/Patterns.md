@@ -4,7 +4,7 @@
 
 ## Pattern 1:
 
-- [x] status
+:white_check_mark: status
 
 ```
 1
@@ -18,7 +18,7 @@
 
 ## Pattern 2:
 
-- [x] status
+:white_check_mark: status
 
 ```
 1 2 3 4 5 6 7
@@ -32,7 +32,7 @@
 
 ## Pattern 3:
 
-- [x] status
+:white_check_mark: status
 
 ```
 1
@@ -46,7 +46,7 @@
 
 ## Pattern 4:
 
-- [x] status
+:white_check_mark: status
 
 ```
 7 7 7 7 7 7 7
@@ -60,7 +60,7 @@
 
 ## Pattern 5:
 
-- [x] status
+:white_check_mark: status
 
 ```
 7
@@ -74,7 +74,7 @@
 
 ## Pattern 6:
 
-- [x] status
+:white_check_mark: status
 
 ```
 7 6 5 4 3 2 1
@@ -88,7 +88,7 @@
 
 ## Pattern 7:
 
-- [x] status
+:white_check_mark: status
 
 ```
 1
@@ -102,7 +102,7 @@
 
 ## Pattern 8:
 
-- [x] status
+:white_check_mark: status
 
 ```
 7 6 5 4 3 2 1
@@ -116,7 +116,7 @@
 
 ## Pattern 9:
 
-- [x] status
+:white_check_mark: status
 
 ```
 1
@@ -136,7 +136,7 @@
 
 ## Pattern 10:
 
-- [x] status
+:white_check_mark: status
 
 ```
 1 2 3 4 5 6 7
