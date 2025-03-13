@@ -156,7 +156,7 @@
 
 ## Pattern 11:
 
-- [x] status
+:white_check_mark: status
 
 ```
 1
