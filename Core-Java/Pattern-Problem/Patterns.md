@@ -246,6 +246,8 @@
 
 ## Pattern 17:
 
+:white_check_mark: status
+
 ```
       1
      1 2
@@ -258,6 +260,8 @@
 
 ## Pattern 18:
 
+:white_check_mark: status
+
 ```
     1
    2 3
@@ -267,6 +271,8 @@
 ```
 
 ## Pattern 19:
+
+:white_check_mark: status
 
 ```
       1
@@ -279,6 +285,8 @@
 ```
 
 ## Pattern 20:
+
+:white_check_mark: status
 
 ```
 7 7 7 7 7 7 7
