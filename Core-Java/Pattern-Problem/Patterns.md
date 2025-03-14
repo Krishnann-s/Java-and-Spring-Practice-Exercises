@@ -226,6 +226,8 @@
 
 ## Pattern 16:
 
+:white_check_mark: status
+
 ```
 1234567
  234567
